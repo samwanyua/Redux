@@ -1,10 +1,10 @@
-import Counter from "./features/counter/Counter"
+import PostsLists from "./features/post/PostsLists"
 
 function App() {
 
   return (
     <>
-      <Counter />
+      <PostsLists/>
     </>
   )
 }
